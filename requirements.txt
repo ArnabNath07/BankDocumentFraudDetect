@@ -1,0 +1,14 @@
+langchain
+langgraph
+langchain-groq
+pandas
+fastapi
+python-dateutil
+pypdf
+rapidfuzz
+pydantic
+python-dotenv
+streamlit
+uvicorn
+python-multipart
+ujson
